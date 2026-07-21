@@ -4,5 +4,5 @@ project(FirstTest)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(FirstTest main.cpp
-        FirstLesson/io.cpp
+        io.cpp
         io.h)
